@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Specify the folder containing the Excel files
-folder_path = 'C:\\Users\\DELL\\Downloads\\remaining quantity track\\clicktech'
+folder_path = ''
 output_file = 'formatted_combined_output.xlsx'
 
 # Initialize a list to store dataframes
