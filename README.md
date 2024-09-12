@@ -6,3 +6,5 @@ asin_outstanding_vendercentral_excelops.py - this file is useful for vendor cent
 s3xy_formatted_asin_outstanding_vendorcentral_excelops - basically asin_outstanding_vendercentral_excelops.py but much better formatted only 1 asin column followed by quantity
 ##
 invoice_total_count.py - print all invoices amount and add total in cmd
+##
+betterone_excel2po.py - create an excel datafile.xlsx to load data into it . it will share result in notepad asin and quantity in text format
